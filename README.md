@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I’m Andrew Dickey, a dedicated software developer with a passion for exploring the realms of AI, web development, and open-source contributions. Thank you for visiting my profile, and feel free to explore my repositories and reach out if you'd like to collaborate!
 ## 🚀 About Me
-- 🔭 Check out my [Portfolio](https://andrew-dickey.com) to see what I'm up to!
-- 🌱 Currently focused on [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Web Applications](https://en.wikipedia.org/wiki/Web_application)
-- 👯 Always open to new collaborations—each project is a chance to learn and grow!
-- ⚡ Fun facts: I have a master's degree in Computer Science, I'm an identical twin, and I won a physique show in 2019!
-- 📫 Reach out to me at: [Andrewpd99@hotmail.com](mailto:Andrewpd99@hotmail.com)
+- 🔭 Check out my [Portfolio](https://andrew-dickey.com) for recent updates.
+- 🔍 Currently focused on [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Web Applications](https://en.wikipedia.org/wiki/Web_application).
+- 👯 Open to collaborating on any project, as every opportunity opens the door to growth.
+- ⚡ Fun facts: I have a master's degree in Computer Science, I'm an identical twin, and I won a physique show in 2019.
+- 📫 Reach out to me at: [Andrewpd99@hotmail.com](mailto:Andrewpd99@hotmail.com).
 
 ## 📈 GitHub Stats
 <p align="center">
